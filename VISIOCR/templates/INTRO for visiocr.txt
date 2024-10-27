@@ -1,0 +1,14 @@
+                             FINAL ONE 
+
+Good evening, everyone. My name is Jishitha. I would like to start by expressing my heartfelt gratitude to our mentors, Vinutha Sevena Ma'am and Santhosh Sir, for their unwavering support and invaluable guidance throughout this project. Their expertise and encouragement have been pivotal in driving our project forward and helping us achieve our goals. Thank you both for your dedication and commitment to our success.
+
+
+Over the past six weeks, my team and I have been working on a project that we're excited to share with you today. Our project, titled VisiOCR, stands for Visitor Optical Character Recognition. The primary objective of VisiOCR is to extract visitor details from identification documents, such as PAN cards and AADHAR cards, using OCR technology.
+
+Why we developed this because 
+Manually collecting and recording visitor information can be a difficult and time-consuming task, prone to errors and inaccuracies. This is where VisiOCR comes in – our project aims to automate this process, making it faster, more efficient, and accurate.
+
+Project Statement and Outcomes:
+
+VisiOCR is an innovative solution designed to streamline the process of issuing visiting passes by automating the extraction of relevant information from UIDAI or PAN cards using Optical Character Recognition (OCR) technology. 
+VisiOCR is a web-based application designed to extract visitor details from identification documents using OCR technology. By leveraging this technology, we can reduce manual effort, increase accuracy, and enhance the overall visitor experience.
